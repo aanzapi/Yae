@@ -5,7 +5,7 @@ const path = require('path');
 
 const app = express();
 const PORT = 3000;
-const API_KEY = 'Skyzopedia'; // Apikey
+const API_KEY = 'AanDigital'; // Apikey
 
 // --- Konfigurasi Express ---
 
