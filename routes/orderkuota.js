@@ -236,7 +236,7 @@ function convertCRC16(str) {
 }
 
 function generateTransactionId() {
-    return `SKYZOPEDIA-${crypto.randomBytes(2).toString('hex').toUpperCase()}`;
+    return `AanDigital-${crypto.randomBytes(2).toString('hex').toUpperCase()}`;
 }
 
 function generateExpirationTime() {
